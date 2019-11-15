@@ -1,0 +1,18 @@
+/*
+Theme Name: Rent
+Theme URI: http://rent.lc/rent-theme
+Author: someone
+Author URI: http://rent.lc/rent-theme
+Description: Something
+Text Domain: rent
+Template: twentynineteen
+*/
+
+.property-items {
+    display: flex;
+    justify-content: space-around;
+}
+
+.property-city-item:hover {
+    text-decoration: underline;
+}
